@@ -1,0 +1,3 @@
+backend/whisper.cpp
+*backend/__pycache__
+.venv
